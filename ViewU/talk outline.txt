@@ -1,0 +1,39 @@
+Here's an outline for my talk:
+
+1.	Introduction
+2.	Greetings
+3.	Introduce myself
+4.	Expectations out of the talk
+5.	Applications of Deep learning in Fashion industry 
+	a. Computer Vision fundamentals
+	b. Little about CNN's
+	c. Little about GAN's
+6.	I want to visualize myself in a dress I wish to purchase? What do I do?
+	a. How/where I came across the problem
+	b. Problems with existing libraries/tools
+	c. Why another library/tool?
+	d. AR/VR concepts
+	e. How it is different from AR models
+7.	ViewU: Conditional image generation model
+	a. Why this name?
+	b. problems with shopping both online/offline
+9.	Features of this tool
+	a. Upload any picture of you Or select pictures of existing models in cart
+	b. Upload dress you want to trail
+	c. Visualize the dress on you in mobile itself
+	d. High resolution images
+	e. Outcome in different pose from the one you upload
+10. Complexities involved during development
+	a. Creating train data
+	b. Huge infrastructure
+	c. Time taken to train and test
+8.	How to install and run?
+9.	How to use? 
+11. Planned enhancements
+	a. Fashion recommendations with respect to the product you purchase
+	b. Customized UI
+	c. Size recommendations based on persons physique and product brand
+12.	How to get involved 
+	a. Contributions are welcome!
+13. Parting note and thank you
+14. Questions
