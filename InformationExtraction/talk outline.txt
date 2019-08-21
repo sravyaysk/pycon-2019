@@ -1,0 +1,64 @@
+Here's an outline for my talk:
+
+1.	Introduction
+2.	Greetings
+3.	Introduce myself
+4.	Expectations out of the talk
+5.	Traditional way of storing information
+	a. Domains that are still using it
+6.	Ways to digitize the data
+	a. Standard approach
+	b. Manual Data Entry
+	c. Document clustering
+	d. Rule based extraction
+7.	Complexities involved
+	a. Variance in document structure/layout
+	b. Hand written text/data on document
+	c. Quality of scanned pdfs
+	d. Variance in data to be extracted
+	e. Domain specific data
+8.	The solution
+	a. Pipeline
+		i.		Data Collection
+		ii. 	File Segregation
+		iii. 	OCR
+		iv. 	Text structuring
+		v. 		Text cleaning
+		vi.		Classification task(ML/DL/Statistical Inference)
+		vii.	Table, Text extraction
+		viii.	Post processing
+		ix.		Entity extraction
+		x.		Results, Visualizations
+	b. Demo of our working model
+9.	Features of this tool
+	a. Accepts scanned pdfs, word files, excel files as input
+	b. Efficient ensembled OCR engine
+	c. Automatic table extractor
+	d. Intelligent text extractor
+	e. Automatic document processing without writing specific rules
+	f. Extracts all identified text as key-value pairs
+	g. Entitiy extraction on top of extracted text
+10.	Behind scenes
+	a. What is OCR
+	b. Text classification
+	c. Natural Language Understanding Mechanisms
+	d. Entity Extraction
+	e. ML/DL algorithms used
+	e. Our final model
+11.	Complexities involved during Development
+	a. Preparation of train data which is domain specific
+	b. Handling large unstructured data
+	c. Parallel processing
+	d. Contextual based text extraction
+	e. Manual testing
+10.	How to install and run?
+11.	How to use? 
+12.	Planned enhancements
+	a. Enhancing document quality using GANs
+	b. Increasing the scope of train data
+	c. Enhancing OCR output
+	d. Increase the efficieny of model for text extraction
+13.	How to get involved 
+	a. Contributions are welcome!
+14.	Parting note and thank you
+15.	Questions
