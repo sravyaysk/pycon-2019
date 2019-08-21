@@ -23,17 +23,17 @@ Here's an outline for my talk:
 	c. Visualize the dress on you in mobile itself
 	d. High resolution images
 	e. Outcome in different pose from the one you upload
-10. Complexities involved during development
+10.	Complexities involved during development
 	a. Creating train data
 	b. Huge infrastructure
 	c. Time taken to train and test
 8.	How to install and run?
 9.	How to use? 
-11. Planned enhancements
+11.	Planned enhancements
 	a. Fashion recommendations with respect to the product you purchase
 	b. Customized UI
 	c. Size recommendations based on persons physique and product brand
 12.	How to get involved 
 	a. Contributions are welcome!
-13. Parting note and thank you
-14. Questions
+13.	Parting note and thank you
+14.	Questions
